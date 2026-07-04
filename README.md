@@ -1,2 +1,2 @@
 # sales-analysis-automation
-Created three fictional sales Excel datasets, analyzed revenue trends across all files, and automatically generated a professional financial analysis PDF using Python and Gemini CLI.
+This project demonstrates an AI-assisted workflow that generates fictional sales datasets, analyzes revenue trends across multiple Excel files, and automatically creates a professional financial analysis PDF report using Python and Gemini CLI.
