@@ -55,6 +55,7 @@ To take this project one step ahead,
 - Matplotlib
   
 ## Dashboard Preview : 📸
+![Dashboard](dashboard.png)
 
 
 
