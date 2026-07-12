@@ -1,4 +1,8 @@
 # sales-analysis-automation 🚀
+
+## Live Demo :
+Dashboard link : https://riyas935-sales-analysis-automation-dashboard-6tb7pl.streamlit.app/
+
 ## Overview
 This project began as a simple sales data automation script and gradually evolved into a complete analytics dashboard.
 Users can upload Excel sheets datasets and instantly generate:
@@ -8,13 +12,13 @@ Users can upload Excel sheets datasets and instantly generate:
 - Automated PDF Reports
   
 # Supported Excel Format 📁
-The current version of the this project expects Excel files containing the following coloumns:
+The current version of the this project expects Excel files containing the following columns:
 - Sales Data
 - Product Name
 - Units Sold
 - Revenue
 - Geographic Region
-Example Files (Sales_1.xlxs...) are included in this repository
+Example Files (Sales_1.xlsx...) are included in this repository
 
 ## Project Evolution 📊
 This project was created in different phases, with  each phase adding new functionality.
@@ -56,9 +60,6 @@ To take this project one step ahead,
   
 ## Dashboard Preview : 📸
 ![Dashboard](dashboard.png)
-
-## Live Demo :
-Dashboard link : https://riyas935-sales-analysis-automation-dashboard-6tb7pl.streamlit.app/
 
 
 
